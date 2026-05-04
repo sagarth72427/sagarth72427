@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Sagar Thakur</h1>
-<h3 align="center">BCA Student | Aspiring Full-Stack Developer</h3>
+<h3 align="center">BCA Student | Aspiring Developer</h3>
 
 <p align="center">
   <a href="mailto:sagarth72427@gmail.com">
